@@ -72,11 +72,11 @@ nav button:hover {
 }
 
 .gallery img {
-    width: 200px;
+    width: 100px;
     height: auto;
     margin: 10px;
-    border: 2px solid #00ffff;
-    border-radius: 5px;
+    border: 5px solid #00ffff;
+    border-radius: 3px;
     transition: transform 0.3s, border-color 0.3s;
 }
 
